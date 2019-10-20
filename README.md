@@ -1,0 +1,1 @@
+# mysql-kinesis-replicator
